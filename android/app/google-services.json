@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032010768419",
+    "project_id": "stocky-c6674",
+    "storage_bucket": "stocky-c6674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032010768419:android:1153aafe56fb6403551196",
+        "android_client_info": {
+          "package_name": "com.example.stock_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032010768419-bq9u8omjtmdfs8pslhra12lad5jh8tjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ouBPBhOBFV8f4dCKo-9kj1aLAtXrrI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032010768419-bq9u8omjtmdfs8pslhra12lad5jh8tjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
